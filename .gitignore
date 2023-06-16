@@ -1,0 +1,9 @@
+*.*
+*
+!*/
+!/USER/*
+!/BSP/*
+!/Libraries/*
+!/Start/*
+!.gitignore
+!Project.uvprojx
